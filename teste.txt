@@ -1,3 +1,5 @@
 1234
 Novo arquivo
 Adicionado 3a linha
+Adicionado a 4a linha
+Adicionado a 5a linha
